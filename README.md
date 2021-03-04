@@ -1,5 +1,5 @@
 # cicd
-Tim hieu ve CI/CI
+Tim hieu ve CI/CD
 
 # Cac cau lenh git hay dung
 
